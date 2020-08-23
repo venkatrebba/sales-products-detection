@@ -5,7 +5,7 @@ Used Tensorflow object detection api.
 Achieved results by tuning pre-model SSD-Incption.
 
 
-The products has been categorized into 3 groups. The label was the category name. 
+The products have been categorized into 3 groups 
 
 
 Input image
