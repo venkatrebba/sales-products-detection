@@ -5,7 +5,7 @@ Used Tensorflow object detection api.
 Achieved results by tuning pre-model SSD-Incption.
 
 
-The products have been categorized into 3 groups: pharmacy, home and beauty. Hence those items should be located and recongized correspondingly.
+The products have been categorized into 3 groups: pharmacy, home and beauty. Hence those items should be located and recongized respectively.
 
 For instance: 
 
