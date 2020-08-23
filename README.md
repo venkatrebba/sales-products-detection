@@ -9,11 +9,11 @@ The products have been categorized into 3 groups: pharmacy, home and beauty. Hen
 
 For instance: 
 
-Input image
+For the Input image
 
 ![alt text](https://github.com/venkatrebba/sales-products-detection/blob/master/test-images/oralcare_1266_59_66221_62_2018-02-02T12-50-18-920Z.jpg)
 
-Output image
+Predictions: 
 
 ![alt text](https://github.com/venkatrebba/sales-products-detection/blob/master/test-images-output/oralcare_1266_59_66221_62_2018-02-02T12-50-18-920Z.jpg)
 
