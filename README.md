@@ -1,9 +1,9 @@
 # Goods products detection
 
-Goals:
+Goal:
 The products were categorized into 3 groups: pharmacy, home and beauty, and the goal of the project is to detect and classify goods in a given image.
 
-Implementiaon:
+Implementation:
 Developed input-pipeline to feed the input data.
 Designed and trained a model using Tensorflow object detection api and SSD-Incpetion pre-weights
 Achieved mAP of 0.35.
