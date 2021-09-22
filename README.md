@@ -1,4 +1,4 @@
-# sales-products-detection
+# Goods products detection
 
 The objetive is to detect and classify goods in the given image.
 Used Tensorflow object detection api.
